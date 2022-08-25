@@ -72,4 +72,3 @@ Gazebo over ROS from Matlab.
 - [ ] Control a physical UR, Turtlebot, or other robot using coordinates 
 calculated with your Matlab code through ROS. 
 
-Test Fredrik Helland
