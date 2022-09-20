@@ -5,7 +5,11 @@ Robotics assignment, western university of applied science.
 
 ## Overarching project tasks
 - [x] Publish tasks.
-
+- [ ] Interface topology (All)
+- [ ] Motion algorithm (Mathias)
+- [ ] Sensor package (Fredrik F.)
+- [ ] Robot arm (Fredrik, Lars, Sander)
+- [ ] Preplaned Navigation Planning (...)
 
 ## Project Tasks
 ### Develop the forward kinematics of your robotic solution, in Matlab (not Toolbox) or by hand: 
@@ -71,5 +75,3 @@ Gazebo over ROS from Matlab.
 ### Optional
 - [ ] Control a physical UR, Turtlebot, or other robot using coordinates 
 calculated with your Matlab code through ROS. 
-
-#### Test Mathias
