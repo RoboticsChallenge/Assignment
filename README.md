@@ -3,6 +3,9 @@
 ### Description
 Robotics assignment, western university of applied science.
 
+## Next scheduled meeting:
+    Tirsdag 27/10-22 14:00
+
 ## Overarching project tasks
 - [x] Publish tasks.
 - [ ] Interface topology (All)
