@@ -9,6 +9,8 @@ The dynamical model for the vessel has been created based on force and torque eq
 
 <img src="https://user-images.githubusercontent.com/108756538/192135274-998c62ff-3ff1-417c-8120-dc9e8a0b9aaa.png" width="800">
 
+<img src="https://user-images.githubusercontent.com/108756538/192136240-7d41045b-eddc-4a42-a53d-c5dba972e868.png" width="800">
+
 The dynamics ripple through the system: **Rpm** -> **Thrust** -> **Acceleration** -> **Velocity** -> **Position**
 
 #### Model key take aways
