@@ -19,12 +19,17 @@ The dynamics ripple through the system: **Rpm** -> **Thrust** -> **Acceleration*
    - Side thruster:  $\pm6000$ rpm
  - Motion is not instantanious. It will take time to build up acceleration and velocity
    - The vessel will coast if propulsion is instantly dropped to zero until friction has reduced the velocity to zero
-   - Will coast $\approx 1m$ when vessel is at max speed $2.5 m/s$
- - Maximum forward velocity of $2.5 m/s$ is obtained with back thrusters at max rpm
+   - Will coast $\approx 1m$ when vessel is at max speed of $5 m/s$
+ - Maximum forward velocity of $5 m/s$ is obtained with back thrusters at max rpm
+ - The model is non-linear in terms of rpm to velocity
+<img src="https://user-images.githubusercontent.com/108756538/192136490-fce1ee96-94d2-4d1e-9185-7fb032998748.png" width="400">
+image show forward velocity when back thruster are linearly increased to $5000rpm$
+<br><br>
+
  - Rotation by adjusting ratio of left and right thruster or by side thruster
  - The efficiency of the side thruster is reduced with increasing forward velocity (limiter in simulink)
  <img src="https://user-images.githubusercontent.com/108756538/192135179-4e6580bc-3bea-424f-8e4c-ede20508731c.jpg" width="400">
-image show amount of sidewards thrust $[100-10\%]$ when forward velocity is increased from $[0-2.5m/s]$
+image show amount of sidewards thrust $[100-10\%]$ when forward velocity is increased from $[0-5m/s]$
 
 
 
