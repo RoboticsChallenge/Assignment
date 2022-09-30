@@ -3,6 +3,14 @@
 ### Description
 Meeting summaries...
 
+## 30/9/22
+- Added framework and folder setup for robot repo
+- Added new Repo for robot https://github.com/RoboticsChallenge/ROS_Robot
+- added 3D model boat with 6DOF arm 
+
+## 29/9/22
+- Kinematic model with matlab simulation code uploaded to assignment repo
+
 ## 20/9/22:
 - Defined dynamic model for vessel
 - Redefinition of task requirements
