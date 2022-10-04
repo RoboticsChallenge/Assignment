@@ -12,7 +12,7 @@ Robotics assignment, western university of applied science.
 - [x] Kinematic modeling (Mathias)
     - [x] Kinematic model
     - [x] Model Simulation Matlab
-- [] Motion algorithm (Mathias)
+- [ ] Motion algorithm (Mathias)
 - [ ] Sensor package (Fredrik F.)
 - [x] Make Model(Fredrik F.)
     - [x] Make 3D model of assignment
