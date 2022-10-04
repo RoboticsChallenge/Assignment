@@ -10,7 +10,12 @@ Robotics assignment, western university of applied science.
 - [x] Publish tasks.
 - [ ] Interface topology (All)
 - [ ] Motion algorithm (Mathias)
+    - [ ] Kinematic model
+    - [ ] Model Simulation Matlab
 - [ ] Sensor package (Fredrik F.)
+- [x] Make Model(Fredrik F.)
+    - [x] Make 3D model of assignment
+    - [ ] Model simulation Gazebo\Rviz
 - [ ] Robot arm (Fredrik, Lars, Sander)
 - [ ] Preplaned Navigation Planning (...)
 
@@ -21,10 +26,10 @@ Robotics assignment, western university of applied science.
 - [ ] Develop the transformation mapping end-effector to base (for the first 4 
 joints only) 
 ##### For the mobile robot platform(s): 
-- [ ] Draw a model of the mobile robot with the necessary variables defined 
+- [x] Draw a model of the mobile robot with the necessary variables defined 
 (see Fig. 4.1 in Corke for inspiration) 
-- [ ] Develop the kinematic equations of motion for the mobile robot 
-- [ ] Discuss whether the mobile robot is holonomic or non-holonomic 
+- [x] Develop the kinematic equations of motion for the mobile robot 
+- [x] Discuss whether the mobile robot is holonomic or non-holonomic 
 ##### For the robotic system in general: 
 - [ ] Develop the transformation from the chosen sensor system to the 
 relevant coordinate system on the robot (world, end-effector, mobile 
@@ -42,7 +47,7 @@ design challenge (or similar)
 ##### For the mobile robot platform(s): 
 - [ ] Determine suitable controller(s) to control the mobile robot for your 
 chosen challenge 
-- [ ] Implement the kinematic model and the controller(s) in Matlab(/Simulink) 
+- [x] Implement the kinematic model and the controller(s) in Matlab(/Simulink) 
 ##### For the robotic system in general: 
 - [ ] Demonstrate using the sensory system to command the robot, 
 according to the task chosen. That is, show the calculations necessary to 
@@ -57,17 +62,17 @@ required positions/orientations for the task chosen, or
 - [ ] Use differential kinematics to move the end-effector using velocity 
 commands according to the task chosen 
 ##### For the mobile robot platform(s): 
-- [ ] Simulate your chosen challenge, and discuss the simulation results in 
+- [x] Simulate your chosen challenge, and discuss the simulation results in 
 terms of chosen control strategy and performance 
-- [ ] Discuss and implement a navigation strategy for the mobile robot for 
+- [x] Discuss and implement a navigation strategy for the mobile robot for 
 your challenge 
-- [ ] Discuss how you would implement a localization strategy for the mobile 
+- [x] Discuss how you would implement a localization strategy for the mobile 
 robot for your challenge 
 
 ### Connect the Matlab code to ROS and simulate the physical robot in Gazebo 
 ##### For the complete system: 
-- [ ] Model your complete robot system using URDF and visualize the robot in Gazebo
-- [ ] Your robot arm(s) mounted on your mobile platform 
+- [x] Model your complete robot system using URDF and visualize the robot in Gazebo
+- [x] Your robot arm(s) mounted on your mobile platform 
 - [ ] Your mobile platform, with wheels, sensors etc 
 ##### For the robot arm(s): 
 - [ ] Demonstrate controlling your robot arm(s) in Gazebo over ROS from Matlab, by following along a trajectory 
