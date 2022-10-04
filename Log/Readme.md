@@ -3,6 +3,10 @@
 ### Description
 Meeting summaries...
 
+## 04/10/22
+- Made PDR breif
+
+
 ## 30/9/22
 - Added framework and folder setup for robot repo
 - Added new Repo for robot https://github.com/RoboticsChallenge/ROS_Robot
