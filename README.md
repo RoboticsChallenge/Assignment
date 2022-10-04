@@ -4,7 +4,7 @@
 Robotics assignment, western university of applied science.
 
 ## Next scheduled meeting:
-    Tirsdag 11/10-22 14:00
+    Tirsdag 11/10-22 14:00 Discord
 
 ## Overarching project tasks
 - [x] Publish tasks.
