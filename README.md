@@ -9,9 +9,10 @@ Robotics assignment, western university of applied science.
 ## Overarching project tasks
 - [x] Publish tasks.
 - [ ] Interface topology (All)
-- [ ] Motion algorithm (Mathias)
-    - [ ] Kinematic model
-    - [ ] Model Simulation Matlab
+- [x] Kinematic modeling (Mathias)
+    - [x] Kinematic model
+    - [x] Model Simulation Matlab
+- [x] Motion algorithm (Mathias)
 - [ ] Sensor package (Fredrik F.)
 - [x] Make Model(Fredrik F.)
     - [x] Make 3D model of assignment
