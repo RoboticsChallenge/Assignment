@@ -6,7 +6,7 @@ Robotics assignment, western university of applied science.
 ## Next scheduled meeting:
     
     Tirsdag 11/10-22 14:00 Discord
-    <s>Torsdag 6/10-22 11:00 Zoom PDR breif</s>
+    <s> Torsdag 6/10-22 11:00 Zoom PDR breif </s>
     ~~Torsdag 6/10-22 11:00 Zoom PDR breif~~
     ~~Tirsdag 4/10-22 14:00 Discord~~
     ~~Tirsdag 27/9-22 12:00 Discord~~
