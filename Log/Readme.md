@@ -1,7 +1,7 @@
 # Robotics Challenge - Log
 
 ### Description
-Meeting summaries...
+Project day summeries
 
 ## 11/10/22
 - Updated dimensions on model. Model Scales by a factor of 10. Size of model now matches the task description
