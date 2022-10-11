@@ -3,9 +3,12 @@
 ### Description
 Meeting summaries...
 
+## 11/10/22
+- Updated dimensions on model. Model Scales by a factor of 10. Size of model now matches the task description
+  of 1m length and 40cm width. Added 4 new camera points IAW PDR breif, one left, one right, one overview of arm and one on the arm.
+
 ## 04/10/22
 - Made PDR breif
-
 
 ## 30/9/22
 - Added framework and folder setup for robot repo
