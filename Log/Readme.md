@@ -5,8 +5,13 @@ Project day summeries
 
 ## 11/10/22
 - Updated dimensions on model. Model Scales by a factor of 10. Size of model now matches the task description
-  of 1m length and 40cm width. Added 4 new camera points IAW PDR breif, one left, one right, one overview of arm and one on the arm.
-
+  of 1m length and 40cm width. 
+- Added 4 new camera points IAW PDR breif, one left, one right, one overview of arm and one on the arm To model.
+- Added URDF model to gazebo under launch file gazebo.launch
+- Camera topics /image_raw/camera_arm , /image_raw/camera_back, /image_raw/camera_front, /image_raw/camera_right, /image_raw/camera_left
+- moveing model in gazebo is done with Twist to /cmd_vel topic 
+- TODO add Gps topic
+ 
 ## 04/10/22
 - Made PDR breif
 
