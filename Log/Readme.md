@@ -2,11 +2,22 @@
 ### Todo
 - simulation
   - add ballast displacement module
-  - look into thrust configurations 
-  - add latteral thruster
   - add GPS input for real lat long
 ### Description
 Project day summeries
+## 14/10/22
+- Added Centerthruster to model
+  - Gone away from the concept of 2 thrusters, and now have only one that can rotate 360 degress in front. 
+    this ensures that the thruster vector is simulated in the right direction.
+- Reworked Thrusters, they can now rotate thrust vector.
+- Node for thruster input = 
+  - /ros_robot/thruster/right_thrust_cmd      float -1 max forward, 1 max backwards.
+  - /ros_robot/thruster/right_thrust_angle    float  1.57 rads+-
+  - /ros_robot/thruster/left_thrust_cmd       float -1 max forward, 1 max backwards.
+  - /ros_robot/thruster/left_thrust_angle     float  1.57 rads+-
+  - /ros_robot/thruster/left_thrust_cmd       float -1 max forward, 1 max backwards.
+  - /ros_robot/thruster/Center_thrust_cmd     float -1 max forward, 1 max backwards.
+  - /ros_robot/thruster/Center_thrust_angle   float  1.57 rads+- when positive, thruster points towards left and pushes boat to right
 ## 13/10/22
 - Moved project to Noetic installation of ROS and Ubuntu 20.4 iot simulate water.
 - reworked urdf, separated sensors and thrusters in own files.
