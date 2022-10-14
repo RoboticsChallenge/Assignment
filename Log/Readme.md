@@ -1,5 +1,10 @@
 # Robotics Challenge - Log
-
+### Todo
+- simulation
+  - add ballast displacement module
+  - look into thrust configurations 
+  - add latteral thruster
+  - add GPS input for real lat long
 ### Description
 Project day summeries
 ## 13/10/22
@@ -9,7 +14,7 @@ Project day summeries
 - Made own simulated world based on VRX example project.
 - Added ocean to simulation.
 - Added thrusters to model, currently only back thrusters are working. 
-- Added bouancy to model
+- Added bouancy to model(parameters need to be tweaked)
 <img src="https://i.im.ge/2022/10/14/2axspM.gazebo.png" width="800">
 
 ## 11/10/22
