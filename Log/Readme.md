@@ -9,6 +9,7 @@ Project day summeries
 - Made own simulated world based on VRX example project.
 - Added ocean to simulation.
 - Added thrusters to model, currently only back thrusters are working. 
+- Added bouancy to model
 <img src="https://i.im.ge/2022/10/14/2axspM.gazebo.png" width="800">
 
 ## 11/10/22
