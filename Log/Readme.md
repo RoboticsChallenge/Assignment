@@ -10,7 +10,7 @@ Project day summeries
   - Gone away from the concept of 2 thrusters, and now have only one that can rotate 360 degress in front. 
     this ensures that the thruster vector is simulated in the right direction.
 - Reworked Thrusters, they can now rotate thrust vector.
-- Node for thruster input = 
+- Topics for thruster 
   - /ros_robot/thruster/right_thrust_cmd      float -1 max forward, 1 max backwards.
   - /ros_robot/thruster/right_thrust_angle    float  1.57 rads+-
   - /ros_robot/thruster/left_thrust_cmd       float -1 max forward, 1 max backwards.
