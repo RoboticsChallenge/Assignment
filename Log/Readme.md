@@ -2,6 +2,13 @@
 
 ### Description
 Project day summeries
+## 13/10/22
+- Moved project to Noetic installation of ROS and Ubuntu 20.4 iot simulate water.
+- reworked urdf, separated sensors and thrusters in own files.
+- Applied VRX Package on project in order to simulate water.
+- Made own simulated world based on VRX example project.
+- Added ocean to simulation.
+- Added thrusters to model, currently only back thrusters are working. 
 
 ## 11/10/22
 - Updated dimensions on model. Model Scales by a factor of 10. Size of model now matches the task description
