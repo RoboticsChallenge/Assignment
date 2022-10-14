@@ -12,12 +12,12 @@ Project day summeries
 - Reworked Thrusters, they can now rotate thrust vector.
 - Topics for thruster 
   - ```/ros_robot/thruster/right_thrust_cmd```      float -1 max forward, 1 max backwards.
-  - /ros_robot/thruster/right_thrust_angle    float  1.57 rads+-
-  - /ros_robot/thruster/left_thrust_cmd       float -1 max forward, 1 max backwards.
-  - /ros_robot/thruster/left_thrust_angle     float  1.57 rads+-
-  - /ros_robot/thruster/left_thrust_cmd       float -1 max forward, 1 max backwards.
-  - /ros_robot/thruster/Center_thrust_cmd     float -1 max forward, 1 max backwards.
-  - /ros_robot/thruster/Center_thrust_angle   float  1.57 rads+- when positive, thruster points towards left and pushes boat to right
+  - ```/ros_robot/thruster/right_thrust_angle```    float  1.57 rads+-
+  - ```/ros_robot/thruster/left_thrust_cmd```       float -1 max forward, 1 max backwards.
+  - ```/ros_robot/thruster/left_thrust_angle```     float  1.57 rads+-
+  - ```/ros_robot/thruster/left_thrust_cmd```       float -1 max forward, 1 max backwards.
+  - ```/ros_robot/thruster/Center_thrust_cmd```     float -1 max forward, 1 max backwards.
+  - ```/ros_robot/thruster/Center_thrust_angle```   float  1.57 rads+- when positive, thruster points towards left and pushes boat to right
 ## 13/10/22
 - Moved project to Noetic installation of ROS and Ubuntu 20.4 iot simulate water.
 - reworked urdf, separated sensors and thrusters in own files.
