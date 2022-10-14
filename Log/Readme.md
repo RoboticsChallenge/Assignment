@@ -10,7 +10,7 @@ Project day summeries
 - Added ocean to simulation.
 - Added thrusters to model, currently only back thrusters are working. 
 ![alt text][(https://i.im.ge/2022/10/14/2axspM.gazebo.png)
-https://im.ge/i/2axspM
+
 ## 11/10/22
 - Updated dimensions on model. Model Scales by a factor of 10. Size of model now matches the task description
   of 1m length and 40cm width. 
