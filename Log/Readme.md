@@ -7,7 +7,7 @@
 Project day summeries
 ## 16/10/22
   - found and thrashed bug that caused the terrain in sydney_regatta not to spawn.
-      - this removed the neccesity to have VRX_Gazebo package to build the world.
+      - this removed the neccesity to build the whole VRX_Gazebo package to build sydney_regatta world.
       - problem layed in package.xml Following lines added, to source model file locations in model SDF config
         ``` <gazebo_ros gazebo_model_path="${prefix}/models"/> ```
         ``` <gazebo_ros gazebo_media_path="${prefix}"/> ```
