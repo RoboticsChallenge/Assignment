@@ -9,8 +9,8 @@ Project day summeries
   - found and thrashed bug that caused the terrain in sydney_regatta not to spawn.
       - this removed the neccesity to build the whole VRX_Gazebo package to build sydney_regatta world.
       - problem layed in package.xml Following lines added, to source model file locations in model SDF config
-       - ``` <gazebo_ros gazebo_model_path="${prefix}/models"/> ```
-       - ``` <gazebo_ros gazebo_media_path="${prefix}"/> ```
+        - ``` <gazebo_ros gazebo_model_path="${prefix}/models"/> ```
+        - ``` <gazebo_ros gazebo_media_path="${prefix}"/> ```
 ## 14/10/22
 - Added Centerthruster to model
   - Gone away from the concept of 2 thrusters, and now have only one that can rotate 360 degress in front. 
