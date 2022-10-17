@@ -24,8 +24,10 @@ Robotics assignment, western university of applied science.
 - [ ] Sensor package (Fredrik F.)
 - [x] Make Model(Fredrik F.)
     - [x] Make 3D model of assignment
-    - [ ] Model simulation Gazebo\Rviz
+    - [x] Model simulation Gazebo
+    - [ ] Rviz 
 - [ ] Robot arm (Fredrik, Lars, Sander)
+    - [ ] Moveit implementation
 - [ ] Preplaned Navigation Planning (...)
 
 ## Project Tasks
@@ -82,7 +84,7 @@ robot for your challenge
 ##### For the complete system: 
 - [x] Model your complete robot system using URDF and visualize the robot in Gazebo
 - [x] Your robot arm(s) mounted on your mobile platform 
-- [ ] Your mobile platform, with wheels, sensors etc 
+- [x] Your mobile platform, with wheels, sensors etc 
 ##### For the robot arm(s): 
 - [ ] Demonstrate controlling your robot arm(s) in Gazebo over ROS from Matlab, by following along a trajectory 
 calculated in Matlab, or controlled using your differential kinematics implemented in Matlab. 
