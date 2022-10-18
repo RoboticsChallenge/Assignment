@@ -5,6 +5,11 @@
   - add GPS input for real lat long
 ### Description
 Project day summeries
+## 18/10/22
+  - Found bug in simulation that caused hydro dynamics plugin to crash 
+    - this bug caused all robot transforms to be moved to 0,0,0 in world frame after running a while
+    - Bug caused by collision box from center propeller. Reworked proppeller collision to be cylinder
+
 ## 16/10/22
   - found and thrashed bug that caused the terrain in sydney_regatta not to spawn.
       - this removed the neccesity to build the whole VRX_Gazebo package to build sydney_regatta world.
