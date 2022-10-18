@@ -9,6 +9,7 @@ Project day summeries
   - Found bug in simulation that caused hydro dynamics plugin to crash 
     - this bug caused all robot transforms to be moved to 0,0,0 in world frame after running a while
     - Bug caused by collision box from center propeller. Reworked proppeller collision to be cylinder
+  - Bug noticed causing a natural frequency in sway direction. Can be augmented by adding linear drag in sway direction
 
 ## 16/10/22
   - found and thrashed bug that caused the terrain in sydney_regatta not to spawn.
