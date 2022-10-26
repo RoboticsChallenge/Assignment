@@ -7,8 +7,8 @@
 Project day summeries
 ## 26/10/22
   - After debate, it was decided to fix the coordinate issues with model
-    - issue with model was -x axis was forward. Due to the amount of manual changed that have been done
-      this was only doable by hand. 
+    - issue with model was -x axis was forward. Due to the amount of manual changes that have been done
+      to the model, axis change was only doable by hand. 
     - Coordinate axis reworked. X axis now forward
     - This affects thrusters 
     - ```/ros_robot/thrusters/right_thrust_cmd```      float 1 max forward, -1 max backwards.
