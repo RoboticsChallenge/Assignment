@@ -27,8 +27,9 @@ Project day summeries
     - Topics
       - ``` /sensors/gps/fix ``` Lat/long
   - Magnometer added, update HZ not specified currently at 20Hz
-    - Inclination and declination set iaw https://www.magnetic-declination.com/Australia/Sydney/124736.html
-    -  
+    - Inclination, declination and tesla set iaw https://www.magnetic-declination.com/Australia/Sydney/124736.html
+    - Topics
+      - ``` /sensors/magnometer ``` 3D vector
 ## 18/10/22
   - Found bug in simulation that caused hydro dynamics plugin to crash 
     - this bug caused all robot transforms to be moved to 0,0,0 in world frame after running a while
