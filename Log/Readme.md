@@ -18,6 +18,9 @@ Project day summeries
     - need to export to URDF and manualy update  
 ## 24/10/22
   - IMU added
+    - message type sensor_msgs/Imu http://docs.ros.org/en/melodic/api/sensor_msgs/html/msg/Imu.html
+    - Topics
+      - ``` /sensors/imu/data ``` angular velocity, linear_acceleration
   - GPS added 
     - Center of map lat/long -33.724223 150.679736 corresponds with realworld googlemaps https://goo.gl/maps/9pidXpzy6DaJMaCP9
     - message type sensor_msgs/NavSatFix http://docs.ros.org/en/melodic/api/sensor_msgs/html/msg/NavSatFix.html
