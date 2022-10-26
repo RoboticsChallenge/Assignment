@@ -17,15 +17,18 @@ Project day summeries
   - Reworked model in fusion360 to correct axis problems
     - need to export to URDF and manualy update  
 ## 24/10/22
-  - IMU added
+  - IMU added, update HZ not specified currently at 20Hz
     - message type sensor_msgs/Imu http://docs.ros.org/en/melodic/api/sensor_msgs/html/msg/Imu.html
     - Topics
       - ``` /sensors/imu/data ``` angular velocity, linear_acceleration
-  - GPS added 
+  - GPS added, update HZ not specified currently at 15Hz
     - Center of map lat/long -33.724223 150.679736 corresponds with realworld googlemaps https://goo.gl/maps/9pidXpzy6DaJMaCP9
     - message type sensor_msgs/NavSatFix http://docs.ros.org/en/melodic/api/sensor_msgs/html/msg/NavSatFix.html
     - Topics
       - ``` /sensors/gps/fix ``` Lat/long
+  - Magnometer added, update HZ not specified currently at 20Hz
+    - Inclination and declination set iaw https://www.magnetic-declination.com/Australia/Sydney/124736.html
+    -  
 ## 18/10/22
   - Found bug in simulation that caused hydro dynamics plugin to crash 
     - this bug caused all robot transforms to be moved to 0,0,0 in world frame after running a while
