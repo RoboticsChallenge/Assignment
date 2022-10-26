@@ -5,6 +5,14 @@
   - add GPS input for real lat long
 ### Description
 Project day summeries
+## 26/10/22
+  - After debate, it was decided to fix the coordinate issues with model
+    - issue with model was -x axis was forward. Due to the amount of manual changed that have been done
+      this was only doable by hand. 
+    - Coordinate axis reworked. X axis now forward
+    - This affects thrusters 
+    - ```/ros_robot/thrusters/right_thrust_cmd```      float 1 max forward, -1 max backwards.
+    - ```/ros_robot/thrusters/left_thrust_cmd```       float 1 max forward, -1 max backwards.
 ## 18/10/22
   - Found bug in simulation that caused hydro dynamics plugin to crash 
     - this bug caused all robot transforms to be moved to 0,0,0 in world frame after running a while
