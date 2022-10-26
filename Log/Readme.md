@@ -13,6 +13,12 @@ Project day summeries
     - This affects thrusters 
     - ```/ros_robot/thrusters/right_thrust_cmd```      float 1 max forward, -1 max backwards.
     - ```/ros_robot/thrusters/left_thrust_cmd```       float 1 max forward, -1 max backwards.
+## 25/10/22
+  - Reworked model in fusion360 to correct axis problems
+    - need to export to URDF and manualy update  
+## 24/10/22
+  - IMU added
+  - GPS added
 ## 18/10/22
   - Found bug in simulation that caused hydro dynamics plugin to crash 
     - this bug caused all robot transforms to be moved to 0,0,0 in world frame after running a while
