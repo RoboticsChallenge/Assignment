@@ -1,8 +1,6 @@
 # Robotics Challenge - Log
 ### Todo
-- simulation
-  - add ballast displacement module
-  - add GPS input for real lat long
+- NIL
 ### Description
 Project day summeries
 ## 26/10/22
