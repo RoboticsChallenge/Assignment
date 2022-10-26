@@ -22,7 +22,7 @@ Project day summeries
     - Center of map lat/long -33.724223 150.679736 corresponds with realworld googlemaps https://goo.gl/maps/9pidXpzy6DaJMaCP9
     - message type sensor_msgs/NavSatFix http://docs.ros.org/en/melodic/api/sensor_msgs/html/msg/NavSatFix.html
     - Topics
-      - ``` /sensors/gps/fix ```` Lat/long
+      - ``` /sensors/gps/fix ``` Lat/long
 ## 18/10/22
   - Found bug in simulation that caused hydro dynamics plugin to crash 
     - this bug caused all robot transforms to be moved to 0,0,0 in world frame after running a while
