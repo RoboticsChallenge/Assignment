@@ -1,6 +1,6 @@
 # Robotics Challenge - Log
 ### Todo
-- NIL
+- Add kinetic camera for object position
 ### Description
 Project day summeries
 ## 26/10/22
