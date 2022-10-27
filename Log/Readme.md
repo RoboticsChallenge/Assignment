@@ -3,6 +3,10 @@
 - Add kinetic camera for object position
 ### Description
 Project day summeries
+## 27/10/22
+  - Added Enxtended kalman filter to final report
+  - Added IMU to final report
+  - Added Localization strategy to final report
 ## 26/10/22
   - After debate, it was decided to fix the coordinate issues with model
     - issue with model was -x axis was forward. Due to the amount of manual changes that have been done
@@ -33,6 +37,9 @@ Project day summeries
     - this bug caused all robot transforms to be moved to 0,0,0 in world frame after running a while
     - Bug caused by collision box from center propeller. Reworked proppeller collision to be cylinder
   - Bug noticed causing a natural frequency in sway direction. Can be augmented by adding linear drag in sway direction
+
+## 17/10/22
+  - Equations for Extended kalman filter simulated in Matlab
 
 ## 16/10/22
   - found and thrashed bug that caused the terrain in sydney_regatta not to spawn.
