@@ -56,7 +56,7 @@ velocities), and demonstrate how it could be used
 - [ ] Demonstrate example motion planning, on a task relevant to your robot 
 design challenge (or similar) 
 ##### For the mobile robot platform(s): 
-- [ ] Determine suitable controller(s) to control the mobile robot for your 
+- [x] Determine suitable controller(s) to control the mobile robot for your 
 chosen challenge 
 - [x] Implement the kinematic model and the controller(s) in Matlab(/Simulink) 
 ##### For the robotic system in general: 
