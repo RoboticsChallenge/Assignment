@@ -5,9 +5,11 @@ Robotics assignment, western university of applied science.
 
 ## Next scheduled meeting:
     
-    Tirsdag 18/10-22 14:00 Discord
+    
 
 #### Previous meetings
+- Torsdag 03/22-22 11:15 CDR, Zoom
+- Tirsdag 18/10-22 14:00 Discord
 - Tirsdag 11/10-22 14:00 Discord
 - Torsdag 6/10-22 11:00 Zoom PDR breif
 - Tirsdag 4/10-22 14:00 Discord
@@ -21,7 +23,7 @@ Robotics assignment, western university of applied science.
     - [x] Kinematic model
     - [x] Model Simulation Matlab
 - [ ] Motion algorithm (Mathias)
-- [ ] Sensor package (Fredrik F.)
+- [x] Sensor package (Fredrik F.)
 - [x] Make Model(Fredrik F.)
     - [x] Make 3D model of assignment
     - [x] Model simulation Gazebo
