@@ -27,7 +27,7 @@ Robotics assignment, western university of applied science.
 - [x] Make Model(Fredrik F.)
     - [x] Make 3D model of assignment
     - [x] Model simulation Gazebo
-    - [ ] Rviz 
+    - [x] Rviz 
 - [ ] Robot arm (Fredrik, Lars, Sander)
     - [ ] Moveit implementation
 - [ ] Preplaned Navigation Planning (...)
@@ -62,7 +62,7 @@ design challenge (or similar)
 chosen challenge 
 - [x] Implement the kinematic model and the controller(s) in Matlab(/Simulink) 
 ##### For the robotic system in general: 
-- [ ] Demonstrate using the sensory system to command the robot, 
+- [x] Demonstrate using the sensory system to command the robot, 
 according to the task chosen. That is, show the calculations necessary to 
 make the sensory data (e.g. an apple detected at an arbitrary location 
 from a static 3D camera) useful to the robot (e.g. calculate the joint 
@@ -91,7 +91,7 @@ robot for your challenge
 - [ ] Demonstrate controlling your robot arm(s) in Gazebo over ROS from Matlab, by following along a trajectory 
 calculated in Matlab, or controlled using your differential kinematics implemented in Matlab. 
 ##### For the mobile robot(s): 
-- [ ] Demonstrate controlling your mobile robot platform in 
+- [x] Demonstrate controlling your mobile robot platform in 
 Gazebo over ROS from Matlab. 
 ### Optional
 - [ ] Control a physical UR, Turtlebot, or other robot using coordinates 
