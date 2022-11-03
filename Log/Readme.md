@@ -1,8 +1,18 @@
 # Robotics Challenge - Log
 ### Todo
 - Add kinetic camera for object position
+- Finish DH - parameters []
+- Design forward kinematics []
+- Design inverse kinematics []
+- Link matlab with gazebo []
+- Design trajectory and simulate in Matlab/Gazebo []
+
 ### Description
 Project day summeries
+## 03/11/22 Lars and Sander
+  - Measured the lenght of each Link in Fusion 360. 
+  - Desiged robotArm in matlab using Peter Corke Toolbox (ETS.3) with the correct link-lenghts
+  - Started on the DH-parameters
 ## 02/11/22
   - imported robot arm files to matlab
   - tested different positions and trejectories using invers kinematics
