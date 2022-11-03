@@ -6,6 +6,7 @@ Project day summeries
 ## 02/11/22
   - imported robot arm files to matlab
   - tested different positions and trejectories using invers kinematics
+  - completed the CDR presentation
 ## 27/10/22
   - Added Enxtended kalman filter to final report
   - Added IMU to final report
