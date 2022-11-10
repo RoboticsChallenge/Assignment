@@ -50,7 +50,7 @@ robot, etc)
 
 ### Model your robot kinematics with Peter Corke's Robotics Toolbox in Matlab: 
 ##### For the robot arm(s): 
-- [ ] Demonstrate equivalence of the forward kinematic solution obtained 
+- [x] Demonstrate equivalence of the forward kinematic solution obtained 
 previously in Matlab (not Toolbox) or by hand 
 - [ ] Develop the differential kinematics (i.e. relating joint and Cartesian 
 velocities), and demonstrate how it could be used 
