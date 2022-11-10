@@ -36,7 +36,7 @@ Robotics assignment, western university of applied science.
 ### Develop the forward kinematics of your robotic solution, in Matlab (not Toolbox) or by hand: 
 ##### For the robot arm(s): 
 - [x] Develop the table of DH parameters 
-- [ ] Develop the transformation mapping end-effector to base (for the first 4 
+- [x] Develop the transformation mapping end-effector to base (for the first 4 
 joints only) 
 ##### For the mobile robot platform(s): 
 - [x] Draw a model of the mobile robot with the necessary variables defined 
