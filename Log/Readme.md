@@ -9,6 +9,9 @@
 
 ### Description
 Project day summeries
+## 13/11/22 Lars and Sander
+  - Calculated inverse kinematics in matlab.
+  - Started working on motion planning in matlab. 
 ## 10/11/22 Lars and Sander
   - Had project meeting with the teachers about the RobotArm.
   - Found and calculated offset's for the joints
