@@ -4,11 +4,10 @@
 Robotics assignment, western university of applied science.
 
 ## Next scheduled meeting:
-    
-    
+- Torsdag 17/11-22 11:15 Final presentation, Zoom
 
 #### Previous meetings
-- Torsdag 03/22-22 11:15 CDR, Zoom
+- Torsdag 03/11-22 11:15 CDR, Zoom
 - Tirsdag 18/10-22 14:00 Discord
 - Tirsdag 11/10-22 14:00 Discord
 - Torsdag 6/10-22 11:00 Zoom PDR breif
