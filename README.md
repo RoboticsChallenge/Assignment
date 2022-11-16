@@ -44,7 +44,7 @@ joints only)
 - [x] Develop the kinematic equations of motion for the mobile robot 
 - [x] Discuss whether the mobile robot is holonomic or non-holonomic 
 ##### For the robotic system in general: 
-- [ ] Develop the transformation from the chosen sensor system to the 
+- [x] Develop the transformation from the chosen sensor system to the 
 relevant coordinate system on the robot (world, end-effector, mobile 
 robot, etc) 
 
