@@ -9,6 +9,8 @@
 
 ### Description
 Project day summeries
+## 16/11/22 
+  - Added sensor array transformation calculations to report
 ## 13/11/22 Lars and Sander
   - Calculated inverse kinematics in matlab.
   - Started working on motion planning in matlab. 
