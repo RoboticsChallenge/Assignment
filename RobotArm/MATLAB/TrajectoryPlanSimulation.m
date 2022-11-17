@@ -17,12 +17,13 @@ L5 = 0.08561;
 L6 = 0.116047;
 
 % Link Offsets
+L1_offset = pi;
 L2_offset = 2.35619;
 L3_offset = -0.7853734;
 L5_offset = 0.68033;
 
 % Creatin Links with DH - parameters
-L(1) = Link('d',L1_d,'a',L1_a,'alpha',pi/2,'offset',pi);
+L(1) = Link('d',L1_d,'a',L1_a,'alpha',pi/2,'offset',L1_offset);
 L(2) = Link('d',0,'a',L2,'alpha',0,'offset',L2_offset);
 L(3) = Link('d',0,'a',0,'alpha',pi/2,'offset',L3_offset);
 L(4) = Link('d',L3+L4,'a',0,'alpha',pi/2,'offset',0);
