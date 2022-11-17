@@ -9,6 +9,9 @@
 
 ### Description
 Project day summeries
+## 17/11/22 
+  - experimented with including different shapes in gazebo for the robot arm to pickup. 
+  - Made structure plan for the report writing, linked to the robot arm.
 ## 16/11/22 
   - Added sensor array transformation calculations to report
 ## 16/11/22 common log Lars and Sander
