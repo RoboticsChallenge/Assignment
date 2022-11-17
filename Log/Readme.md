@@ -11,10 +11,15 @@
 Project day summeries
 ## 16/11/22 
   - Added sensor array transformation calculations to report
-## 13/11/22 Lars and Sander
+## 15/11/22 common log Lars and Sander
+  - Finished trajectory motion planning in matlab, with simulation video.
+  - Implemented transmission and controllers for each joint in ROS.
+  - Created topics for joint positions.
+  - Started on matlab controller for robot arm. 
+## 13/11/22 common log Lars and Sander
   - Calculated inverse kinematics in matlab.
   - Started working on motion planning in matlab. 
-## 10/11/22 Lars and Sander
+## 10/11/22 common log Lars and Sander
   - Had project meeting with the teachers about the RobotArm.
   - Found and calculated offset's for the joints
   - Completed the DH-parameters
@@ -22,10 +27,10 @@ Project day summeries
   - Made matlab scripts for calculating forward kinematics without using peter cork toolbox.
     for all links and for the first 4 links.
   - Started developing robotarm controller in matlab.
-## 09/11/22 Lars and Sander  
+## 09/11/22 common log Lars and Sander  
   - Started making a script for calculating inverse kinematics.
   - Worked on making SerialLink object and DH-parameters in matlab. 
-## 03/11/22 Lars and Sander
+## 03/11/22 common log Lars and Sander
   - Measured the lenght of each Link in Fusion 360. 
   - Desiged robotArm in matlab using Peter Corke Toolbox (ETS.3) with the correct link-lenghts
   - Started on the DH-parameters
