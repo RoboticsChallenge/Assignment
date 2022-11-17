@@ -11,6 +11,10 @@
 Project day summeries
 ## 16/11/22 
   - Added sensor array transformation calculations to report
+## 16/11/22 common log Lars and Sander
+  - Implemented RobotArm_CDR script for simulating arm movement in gazebo, with video. 
+    Using Trajectory planning in matlab to move the arm in gazebo.
+  - experimented with including different shapes in gazebo for the robot arm to pickup. 
 ## 15/11/22 common log Lars and Sander
   - Finished trajectory motion planning in matlab, with simulation video.
   - Implemented transmission and controllers for each joint in ROS.
