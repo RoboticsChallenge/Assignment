@@ -52,7 +52,7 @@ robot, etc)
 ##### For the robot arm(s): 
 - [x] Demonstrate equivalence of the forward kinematic solution obtained 
 previously in Matlab (not Toolbox) or by hand 
-- [ ] Develop the differential kinematics (i.e. relating joint and Cartesian 
+- [x] Develop the differential kinematics (i.e. relating joint and Cartesian 
 velocities), and demonstrate how it could be used 
 - [ ] Develop the inverse kinematics, and demonstrate how it could be used 
 - [ ] Demonstrate example motion planning, on a task relevant to your robot 
@@ -88,7 +88,7 @@ robot for your challenge
 - [x] Your robot arm(s) mounted on your mobile platform 
 - [x] Your mobile platform, with wheels, sensors etc 
 ##### For the robot arm(s): 
-- [ ] Demonstrate controlling your robot arm(s) in Gazebo over ROS from Matlab, by following along a trajectory 
+- [x] Demonstrate controlling your robot arm(s) in Gazebo over ROS from Matlab, by following along a trajectory 
 calculated in Matlab, or controlled using your differential kinematics implemented in Matlab. 
 ##### For the mobile robot(s): 
 - [x] Demonstrate controlling your mobile robot platform in 
