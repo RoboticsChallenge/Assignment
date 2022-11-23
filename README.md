@@ -54,8 +54,8 @@ robot, etc)
 previously in Matlab (not Toolbox) or by hand 
 - [x] Develop the differential kinematics (i.e. relating joint and Cartesian 
 velocities), and demonstrate how it could be used 
-- [ ] Develop the inverse kinematics, and demonstrate how it could be used 
-- [ ] Demonstrate example motion planning, on a task relevant to your robot 
+- [x] Develop the inverse kinematics, and demonstrate how it could be used 
+- [x] Demonstrate example motion planning, on a task relevant to your robot 
 design challenge (or similar) 
 ##### For the mobile robot platform(s): 
 - [x] Determine suitable controller(s) to control the mobile robot for your 
@@ -70,7 +70,7 @@ angles to put the tool point of the end-effector at the apple’s location).
 
 ### Simulate the kinematics of your robot in Matlab: 
 ##### For the robot arm(s), depending on robot design challenge either: 
-- [ ] Use motion planning to move the robot end-effector through the 
+- [x] Use motion planning to move the robot end-effector through the 
 required positions/orientations for the task chosen, or 
 - [ ] Use differential kinematics to move the end-effector using velocity 
 commands according to the task chosen 
