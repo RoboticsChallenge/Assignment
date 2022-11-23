@@ -18,7 +18,7 @@ Robotics assignment, western university of applied science.
    
 ## Overarching project tasks
 - [x] Publish tasks.
-- [ ] Interface topology (All)
+- [x] Interface topology (All)
 - [x] Kinematic modeling (Mathias)
     - [x] Kinematic model
     - [x] Model Simulation Matlab
@@ -30,7 +30,7 @@ Robotics assignment, western university of applied science.
     - [x] Rviz 
 - [x] Robot arm (Fredrik, Lars, Sander)
     - [ ] Moveit implementation
-- [ ] Preplaned Navigation Planning (...)
+- [x] Preplaned Navigation Planning (...)
 
 ## Project Tasks
 ### Develop the forward kinematics of your robotic solution, in Matlab (not Toolbox) or by hand: 
