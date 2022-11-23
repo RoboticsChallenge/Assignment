@@ -3,7 +3,7 @@
 ### Description
 Robotics assignment, western university of applied science.
 
-## Next scheduled meeting:
+## Next scheduled meeting: Onsdag 23/11-22 Ferdigstille rapport
 
 
 #### Previous meetings
