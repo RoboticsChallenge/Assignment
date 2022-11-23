@@ -28,7 +28,7 @@ Robotics assignment, western university of applied science.
     - [x] Make 3D model of assignment
     - [x] Model simulation Gazebo
     - [x] Rviz 
-- [ ] Robot arm (Fredrik, Lars, Sander)
+- [x] Robot arm (Fredrik, Lars, Sander)
     - [ ] Moveit implementation
 - [ ] Preplaned Navigation Planning (...)
 
